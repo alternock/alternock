@@ -1,16 +1,24 @@
-### Hi there 👋
+### Alternock 😊
 
-<!--
-**alternock/alternock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un programador full stack y vivo en latam.
 
-Here are some ideas to get you started:
+Actualmente manejo estas tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Javascript
+* NodeJS
+* Python
+* Rust
+
+Lenguaje | Tecnología | Tiempo
+---------|------------|--------
+NodeJS   |  ExpressJS | 5 años
+Python   |  Flask     | 3 años
+Rust     |  Rocket    | 1 año
+
+
+> instagram @alternock
+> twitter @alternock
+
+```diff
++ si me buscas para alguna colaboración, te comento que solo trabajo con tecnologías open source
+```
